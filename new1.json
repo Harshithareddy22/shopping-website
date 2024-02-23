@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" realme8 pro new model",
+        "price": 2000,
+        "image": "img/e1.jpeg"
+    },
+    {
+        "id": 2,
+        "name":" redmi5 11T 5g",
+        "price": 2000,
+        "image": "img/e2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" new apple earpods",
+        "price": 2900,
+        "image": "img/e3.jpeg"
+    },
+    {
+        "id": 4,
+        "name":" iphone15 pro",
+        "price": 1000,
+        "image": "img/e4.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" Dell laptop",
+        "price": 5000,
+        "image": "img/e5.jpeg"
+    },
+    {
+        "id": 6,
+        "name":" apple laptop",
+        "price": 15000,
+        "image": "img/e6.jpeg"
+    },
+    {
+        "id": 7,
+        "name":" new realme pink headphones",
+        "price": 1000,
+        "image": "img/e7.jpeg"
+    },
+    {
+        "id": 8,
+        "name":"hp new version laptop ",
+        "price": 12000,
+        "image": "img/hp1.jpg"
+    }
+
+]
