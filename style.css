@@ -1,0 +1,58 @@
+body{
+    background-color: aqua;
+    font-family: sans-serif;
+   
+    
+}
+.Signup{
+    width: 360px;
+    height: 800px;
+    margin: auto;
+    background: white;
+    border-radius: 3px;
+        padding: 15px;
+        box-shadow: 8px 8px rgb(228, 223, 223);
+      }
+
+h1{
+    text-align: center;
+
+}
+form{
+    width: 300px;
+    margin-left: 20px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 16px;
+
+}
+form input{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+
+}
+ input[type="submit"]{
+    color: white;
+    background-color: brown;
+ }
+ p{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+ }
+ .har:hover{
+    background-color: black;
+ }
+.login{
+    width: 360px;
+    height: 300px;
+    margin: auto;
+    background: white;
+    border-radius: 3px;
+}

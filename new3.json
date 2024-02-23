@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name":" Roal ilue LOUNGE CHAIR",
+        "price": 700,
+        "image": "img/u1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" sandlewood dressing table",
+        "price": 1250,
+        "image": "img/u2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" multipurpose sandlewood doublecot",
+        "price": 12290,
+        "image": "img/u3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" newportable shelf",
+        "price": 1200,
+        "image": "img/u4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" kitchen shelf",
+        "price": 5300,
+        "image": "img/u5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"  LOUNGE CHAIRs Combo in 3",
+        "price": 2200,
+        "image": "img/u6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" roal doublecot new model",
+        "price": 5500,
+        "image": "img/u7.jpg"
+    },
+    {
+        "id": 8,
+        "name":" multipupose white royal doublecot",
+        "price": 5200,
+        "image": "img/u8.jpg"
+    },
+    {
+        "id": 9,
+        "name":" new blue sofa",
+        "price": 1200,
+        "image": "img/u9.jpg"
+    }
+
+]

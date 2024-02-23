@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name":" Harrypotter all editions",
+        "price": 500,
+        "image": "img/b1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" it ends with us book novel<br> by colleen hoover",
+        "price": 50,
+        "image": "img/b2.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Rich dad Poor dad book",
+        "price": 90,
+        "image": "img/b3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Java7 programming book",
+        "price": 70,
+        "image": "img/b4.jpg"
+    },
+    {
+        "id": 5,
+        "name":" one day in december novel",
+        "price": 75,
+        "image": "img/b5.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Blockchain book ",
+        "price": 62,
+        "image": "img/b6.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Programming in c++",
+        "price": 50,
+        "image": "img/b7.jpg"
+    },
+    {
+        "id": 8,
+        "name":"oop java book",
+        "price": 100,
+        "image": "img/b8.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Python with everybody book",
+        "price": 100,
+        "image": "img/b9.jpg"
+    }
+
+
+]

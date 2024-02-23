@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name":" new res nude lipstick",
+        "price": 100,
+        "image": "img/c1.jpeg"
+    },
+    {
+        "id": 2,
+        "name":" Lakme compact powder",
+        "price": 150,
+        "image": "img/c2.jpeg"
+    },
+    {
+        "id": 3,
+        "name":" spinzz new compact powder",
+        "price": 90,
+        "image": "img/c3.jpg"
+    },
+    {
+        "id": 4,
+        "name":" new nykaa glitter eye shadow pallatte",
+        "price": 200,
+        "image": "img/c4.jpeg"
+    },
+    {
+        "id": 5,
+        "name":" brand new mens facewash",
+        "price": 70,
+        "image": "img/c5.jpeg"
+    },
+    {
+        "id": 6,
+        "name":"new lakme eyeconic kajal ",
+        "price": 50,
+        "image": "img/c6.jpeg"
+    },
+    {
+        "id": 7,
+        "name":"compact, foundation eith concealer combo ",
+        "price": 450,
+        "image": "img/c7.jpeg"
+    },
+    {
+        "id": 8,
+        "name":" eye shadow, mascara, compact,foundation combo",
+        "price": 500,
+        "image": "img/c8.jpeg"
+    },
+    {
+        "id": 9,
+        "name":" Blue heaven red lliquid matte ",
+        "price": 200,
+        "image": "img/c9.jpeg"
+    }
+
+]
